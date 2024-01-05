@@ -7,7 +7,7 @@ mccabe==0.6.1
 node==0.9.25
 odict==1.7.0
 plumber==1.6
-pycryptodome==3.9.7
+pycryptodome==3.19.1
 pylint==2.5.2
 six==1.15.0
 toml==0.10.1
